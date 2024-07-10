@@ -4,7 +4,6 @@ This is the making of a streamlit app for the best choice of crop
 
 import streamlit as st
 from streamlit_option_menu import option_menu
-from streamlit_navigation_bar import st_navbar
 import pandas as pd
 import numpy as np
 import joblib
