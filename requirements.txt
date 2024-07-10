@@ -3,3 +3,4 @@ numpy
 joblib
 streamlit
 streamlit-option-menu
+pytest
