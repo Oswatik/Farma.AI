@@ -9,7 +9,15 @@ import numpy as np
 import joblib
 from templates import home_page, geek_page, pred_direct, pred_real_time, pred_by_data, stats_price
 
-best_model = joblib.load("rf_model.joblib")
+# Load the model with error handling
+try:
+    best_model = joblib.load("rf_model.joblib")
+except FileNotFoundError:
+    st.error("Model file not found. Please check the file path.")
+    st.stop()
+except Exception as e:
+    st.error(f"An error occurred while loading the model: {e}")
+    st.stop()
 
 def home():
 
