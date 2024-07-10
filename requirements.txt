@@ -4,3 +4,4 @@ joblib
 streamlit
 streamlit-option-menu
 pytest
+sklearn
