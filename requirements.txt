@@ -1,0 +1,6 @@
+pandas
+numpy
+joblib
+GridSearchCV
+streamlit
+streamlit-option-menu
