@@ -1,3 +1,6 @@
+## This page is not related to the workflow
+## It was created for checking if Streamlit is working properly. You can also run this to check the working of this simple streamlit app.
+
 import streamlit as st
 from streamlit_option_menu import option_menu
 
