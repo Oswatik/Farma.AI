@@ -11,3 +11,17 @@
 </p>
 
 <p align="center">
+
+
+
+
+
+
+
+
+
+
+<h3 align="center">
+    Try it now: <br>
+    <a href="https://farmaai.streamlit.app/">Farma.AI</a>
+</h3>
