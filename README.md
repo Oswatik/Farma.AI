@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <a href="https://share.streamlit.io/baligoyem/dataqtor/main/home.py"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit</a>
+    <a href="https://farmaai.streamlit.app/"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit</a>
 </p>
 
 <p align="center">
